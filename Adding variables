@@ -1,0 +1,29 @@
+#include <iostream>
+
+int main(){
+
+//Double is used for floting number
+
+double a = 1.38;
+
+double b = 8.62;
+
+double c = 9.1;
+
+double d = 10.9;
+
+double e = 9.5;
+
+double f = 10.5;
+
+//int is used for integers
+
+int g = 50;
+
+double h = a + b + c + d + e + f + g;
+
+std::cout<<h;
+
+return 0;
+
+}
